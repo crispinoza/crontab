@@ -4,7 +4,7 @@ cd /home/cristhian/trabajo
 
 
 git add .
-git commit -a -m "mi primer commit"
+git commit -a -m "mi cuarto commit"
 git push -u origin master
 
-echo "hola"
+echo "changos"
